@@ -15,3 +15,6 @@ set omnifunc=syntaxcomplete#Complete
 
 " No Text Wrapping
 set nowrap
+
+" Line numbers
+set number
