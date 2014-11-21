@@ -18,3 +18,8 @@ set nowrap
 
 " Line numbers
 set number
+
+" MACROS
+"
+" pdflatex macro
+let @l = ':w:!pdflatex %'
